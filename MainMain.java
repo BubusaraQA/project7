@@ -11,6 +11,7 @@ public class MainMain {
         System.out.println();
         Game.writeNumOfPlayersPerTeam(Game.GameType.HOCKEY);
         System.out.println();
+        Game.writeNumOfPlayersPerTeam(Game.GameType.TENNIS);
         Game.writeNumOfPlayersPerTeam(null);
 
 
